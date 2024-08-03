@@ -2,5 +2,5 @@ plb_legacy_version=2.1
 plb_multiplayer_version=1.2
 hfu_version=1.5.0
 plb_legacy_local_version=12
-plb_multiplayer_local_version=2
+plb_multiplayer_local_version=3
 hfu_local_version=4
